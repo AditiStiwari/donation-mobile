@@ -22,6 +22,7 @@ export const Routes = {
             campgainDetails: 'Campgain Details',
             donateScreen: 'Donate',
             volunteerScreen: 'Volunteer',
+            SlotScreen:'Book Slot'
         },
         historyStack:{
             tag: 'historyStack',

@@ -146,7 +146,7 @@ export default function DonateScreen({navigation,route}) {
     }
 
     const bookService =()=>{
-        Alert.alert('Booking Service','In Development !')
+        navigation.navigate(Routes.tabStack.alertStack.SlotScreen, {data:campaginDetails})
     }
 
 
